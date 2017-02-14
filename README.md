@@ -92,7 +92,7 @@ This package has prebuilt binaries (thanks to [node-pre-gyp](https://github.com/
 * Mac OS X 64 bits
 * Windows 32 and 64 bits
 
-Just running ``npm install node-libcurl`` should install a prebuilt binary and no compilation will be needed.
+Just running ``npm install nodejs-libcurl`` should install a prebuilt binary and no compilation will be needed.
 
 If there is no prebuilt binary available that matches your system, or if the installation fails, then you will
 need an environment capable of compilling nodejs addons, which means [python 2.7](https://www.python.org/download/releases/2.7)
